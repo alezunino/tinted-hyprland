@@ -1,0 +1,8 @@
+base16-default:
+  extension: .conf
+  filename: "themes/{{ scheme-system }}-{{ scheme-slug }}.conf"
+
+base24-default:
+  extension: .conf
+  filename: "themes/{{ scheme-system }}-{{ scheme-slug }}.conf"
+  supported-systems: [base24]
